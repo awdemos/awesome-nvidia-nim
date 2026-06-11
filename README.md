@@ -67,7 +67,7 @@ NIM hosts 120+ models across categories. Key ones:
 
 ## Agentic Workflows & Multi-Agent Systems
 
-- [autobot-swarm](https://github.com/DanielDeshmukh/autobot-swarm) ⭐ — PyPI-published CLI for spinning up NVIDIA NIM-powered multi-agent swarms. Supports 120-model live catalog discovery, Tier 1/Tier 2 skill injection, and 465+ tests. `pip install autobot-swarm`
+- [autobots](https://github.com/DanielDeshmukh/autobots) ⭐ — PyPI-published CLI for spinning up NVIDIA NIM-powered multi-agent swarms. Supports 120-model live catalog discovery, Tier 1/Tier 2 skill injection, and 465+ tests. `pip install autobot-swarm`
 - [NVIDIA Agent Toolkit](https://github.com/NVIDIA/nvidia-agent-toolkit) — Official toolkit for building agent-to-agent (A2A) workflows with NIM.
 - [LangGraph + NIM Agents](https://github.com/NVIDIA/GenerativeAIExamples/tree/main/AgentFrameworks) — LangGraph-based multi-agent examples with NIM backends.
 - [CrewAI + NIM](https://docs.crewai.com/concepts/llms#nvidia) — Use NIM as LLM backend inside CrewAI agent crews.
