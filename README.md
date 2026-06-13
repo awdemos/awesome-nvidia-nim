@@ -1,4 +1,17 @@
-# Awesome NVIDIA NIM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome NVIDIA NIM
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/DanielDeshmukh/awesome-nvidia-nim?style=social)](https://github.com/DanielDeshmukh/awesome-nvidia-nim)
+[![GitHub forks](https://img.shields.io/github/forks/DanielDeshmukh/awesome-nvidia-nim?style=social)](https://github.com/DanielDeshmukh/awesome-nvidia-nim/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/DanielDeshmukh/awesome-nvidia-nim)](https://github.com/DanielDeshmukh/awesome-nvidia-nim/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/DanielDeshmukh/awesome-nvidia-nim)](https://github.com/DanielDeshmukh/awesome-nvidia-nim/commits)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/DanielDeshmukh/awesome-nvidia-nim/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/DanielDeshmukh/awesome-nvidia-nim)
+
+*If this list helped you, please consider giving it a ⭐ star — it helps other developers find it.*
+
+---
 
 > A curated list of resources, tools, projects, and workflows for building with [NVIDIA NIM](https://developer.nvidia.com/nim) — inference microservices for deploying AI models at production scale.
 
@@ -143,5 +156,3 @@ To add a resource:
 ---
 
 *Maintained by [Daniel Deshmukh](https://github.com/DanielDeshmukh) · Mumbai, India*
-
-*If this list helped you, please ⭐ star it — it helps other developers find it.*
