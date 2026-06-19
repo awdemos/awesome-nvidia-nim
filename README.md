@@ -126,10 +126,6 @@ NIM hosts a large and growing catalog of models. Key categories:
 - [Milvus](https://milvus.io/docs/integrate_with_nvidia.md) — NVIDIA NIM + Milvus for large-scale vector search.
 - [Weaviate](https://weaviate.io/developers/weaviate/model-providers/nvidia) — NIM embedding and generative modules.
 
-**Infrastructure**
-- [NIM on Docker](https://docs.nvidia.com/nim/large-language-models/latest/getting-started.html#deploy-nim) — Self-hosted NIM containers with Docker.
-- [NIM on Kubernetes](https://docs.nvidia.com/nim/large-language-models/latest/k8s-operator.html) — Helm charts and K8s operator for NIM deployments.
-
 ## Example Projects
 
 - [autobots](https://github.com/DanielDeshmukh/autobots) — Multi-agent CLI swarm using NIM with live model catalog discovery. PyPI-published.
