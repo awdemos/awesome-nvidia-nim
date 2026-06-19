@@ -87,7 +87,6 @@ NIM hosts a large and growing catalog of models. Key categories:
 
 - [autobots](https://github.com/DanielDeshmukh/autobots) ⭐ — PyPI-published CLI for spinning up NVIDIA NIM-powered multi-agent swarms. Live model catalog discovery, skill injection, extensive test suite. `pip install autobot-swarm`
 - [NVIDIA NeMo Agent Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) — Official open-source toolkit for connecting and optimizing agent teams, with MCP/A2A protocol support and NIM as a core backend.
-- [LangGraph + NIM Agents](https://github.com/NVIDIA/GenerativeAIExamples/tree/main/AgentFrameworks) — LangGraph-based multi-agent examples with NIM backends.
 - [cybersentry](https://github.com/prutxvi/cybersentry) — Autonomous AI-powered ethical hacking agent powered by Llama 3.1 70B on NVIDIA NIM.
 - [Blacknode](https://github.com/temiroff/Blacknode) — MCP-native visual workflow framework for AI agents with a node editor and Python export; NIM-supported.
 
