@@ -120,7 +120,7 @@ NIM hosts a large and growing catalog of models. Key categories:
 - [LlamaIndex NIM](https://docs.llamaindex.ai/en/stable/examples/llm/nvidia/) — Use NIM as LLM or embedding provider in LlamaIndex pipelines.
 - [Haystack NIM](https://haystack.deepset.ai/integrations/nvidia) — NVIDIA NIM components for Haystack pipelines.
 - [DSPy + NIM](https://dspy.ai) — Use NIM as the LM backend for DSPy programs.
-- [elizaOS plugin-nvidia-nim](https://github.com/elizaos-plugins/plugin-nvidia-nim) — ElizaOS plugin integrating NIM foundation models for content analysis, image detection, and safety checks.
+
 
 **Vector Stores**
 - [Qdrant](https://qdrant.tech/documentation/integrations/nvidia-nim/) — Native NIM embedding integration.
