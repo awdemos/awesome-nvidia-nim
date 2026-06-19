@@ -96,7 +96,6 @@ NIM hosts a large and growing catalog of models. Key categories:
 - [RAG with NIM + LangChain](https://github.com/NVIDIA/GenerativeAIExamples/tree/main/RAG) — Production RAG using NIM embeddings + LLM inference.
 - [Hybrid RAG Workbench Example](https://github.com/NVIDIA/workbench-example-hybrid-rag) — RAG project that works interchangeably with build.nvidia.com endpoints, local NIM containers, or HF TGI.
 - [NVIDIA ChatRTX](https://github.com/NVIDIA/ChatRTX) — Personalize a local LLM with your own docs using RAG + TensorRT-LLM + NIM, runs on RTX PCs.
-- [NIM + Qdrant RAG](https://qdrant.tech/documentation/integrations/nvidia-nim/) — Qdrant vector DB integrated with NIM for semantic search.
 - [Chat-RAG](https://github.com/JakeFurtaw/Chat-RAG) — Gradio-based coding assistant streaming responses, pulling context from GitHub repos and local files, with NIM inference.
 - [nvidia-NIM-RAG](https://github.com/mickymultani/nvidia-NIM-RAG) — Community project demonstrating a NIM-powered RAG pipeline end to end.
 - [NVIDIA_NIM-demo](https://github.com/anirxudh/NVIDIA_NIM-demo) — Streamlit RAG chatbot using NIM embeddings, FAISS, and document loaders.
