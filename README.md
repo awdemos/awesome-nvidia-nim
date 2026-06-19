@@ -123,7 +123,6 @@ NIM hosts a large and growing catalog of models. Key categories:
 
 
 **Vector Stores**
-- [Qdrant](https://qdrant.tech/documentation/integrations/nvidia-nim/) — Native NIM embedding integration.
 - [Milvus](https://milvus.io/docs/integrate_with_nvidia.md) — NVIDIA NIM + Milvus for large-scale vector search.
 - [Weaviate](https://weaviate.io/developers/weaviate/model-providers/nvidia) — NIM embedding and generative modules.
 
