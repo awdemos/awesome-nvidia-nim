@@ -56,7 +56,6 @@ NVIDIA NIM provides optimized, containerized AI model inference via a simple RES
 
 - [NIM Quickstart Guide](https://docs.nvidia.com/nim/large-language-models/latest/getting-started.html) — Get your first API call working in under 5 minutes.
 - [NIM Free Credits](https://build.nvidia.com) — Free credits for new accounts; no GPU required.
-- [OpenAI-Compatible API](https://docs.nvidia.com/nim/large-language-models/latest/openai-api.html) — NIM endpoints are OpenAI-spec compatible; drop-in for any OpenAI SDK client.
 - [Deploy Your Own LLM with NIM](https://github.com/NVIDIA-AI-Blueprints/bring-llms-to-nim) — Containerized deployment blueprint for custom models.
 
 ## Models Available on NIM
