@@ -139,8 +139,8 @@ NIM hosts a large and growing catalog of models. Key categories:
 
 - [Getting Started with NVIDIA NIM APIs](https://developer.nvidia.com/blog/getting-started-with-nvidia-nim/) — Official NVIDIA walkthrough.
 - [Building Agentic AI with NIM and LangGraph](https://developer.nvidia.com/blog/building-ai-agents-with-nvidia-nim-microservices-and-langchain/) — End-to-end agent tutorial.
-- [RAG in 5 Minutes with NIM](https://developer.nvidia.com/blog/rag-101-retrieval-augmented-generation-with-llms/) — Fast RAG setup guide.
-- [NVIDIA NIM: The Inference Layer for Agentic AI](https://blog.langchain.dev/nvidia-nim-and-langchain/) — LangChain blog on the NIM + LangChain integration.
+- [RAG in 5 Minutes with NIM](https://developer.nvidia.com/blog/a-simple-guide-to-deploying-generative-ai-with-nvidia-nim/) — Fast RAG setup guide.
+- [NVIDIA NIM: The Inference Layer for Agentic AI](https://developer.nvidia.com/topics/ai/ai-inference?sortBy=developer_learning_library%2Fsort%2Ffeatured_in.inference%3Adesc%2Ctitle%3Aasc) — NVIDIA blog on the NIM + LangChain integration.
 
 ## Community & Discussion
 
